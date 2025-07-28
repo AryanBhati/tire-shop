@@ -1,2 +1,3 @@
 # tire-shop
-just made an tire shop webiste
+just made an tire shop website
+
